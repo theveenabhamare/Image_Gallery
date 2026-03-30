@@ -1,4 +1,4 @@
-# 🌟 CodeAlpha Image Gallery
+# 🌟 Image Gallery
 
 A modern and responsive Image Gallery built using HTML, CSS, and JavaScript. This project showcases an attractive UI with smooth interactions and dynamic features.
 
@@ -22,11 +22,6 @@ A modern and responsive Image Gallery built using HTML, CSS, and JavaScript. Thi
 - Add animations on scroll  
 - Add more image categories  
 - Improve UI with advanced effects  
-
-
-## 🙌 Acknowledgement
-
-This project is part of the CodeAlpha Frontend Development Internship.
 
 ## 📧 Contact
 
